@@ -1,0 +1,21 @@
+header {
+    background: var(--black);
+
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    align-items: center;
+    
+}
+
+header ul {
+    margin-left: 100px;
+    width: 50vw;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul li {
+    list-style: none;
+}
