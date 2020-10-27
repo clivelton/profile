@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clivelton/profile/static/css/main.ea1c1996.chunk.css",
+    "main.js": "/clivelton/profile/static/js/main.24359cf9.chunk.js",
+    "main.js.map": "/clivelton/profile/static/js/main.24359cf9.chunk.js.map",
+    "runtime-main.js": "/clivelton/profile/static/js/runtime-main.eedbaf40.js",
+    "runtime-main.js.map": "/clivelton/profile/static/js/runtime-main.eedbaf40.js.map",
+    "static/js/2.fee7ef0a.chunk.js": "/clivelton/profile/static/js/2.fee7ef0a.chunk.js",
+    "static/js/2.fee7ef0a.chunk.js.map": "/clivelton/profile/static/js/2.fee7ef0a.chunk.js.map",
+    "index.html": "/clivelton/profile/index.html",
+    "static/css/main.ea1c1996.chunk.css.map": "/clivelton/profile/static/css/main.ea1c1996.chunk.css.map",
+    "static/js/2.fee7ef0a.chunk.js.LICENSE.txt": "/clivelton/profile/static/js/2.fee7ef0a.chunk.js.LICENSE.txt",
+    "static/media/cssIcon.bdce12d3.png": "/clivelton/profile/static/media/cssIcon.bdce12d3.png",
+    "static/media/g12.b0d98615.png": "/clivelton/profile/static/media/g12.b0d98615.png",
+    "static/media/htmlIcon.ff5e134c.png": "/clivelton/profile/static/media/htmlIcon.ff5e134c.png",
+    "static/media/jsIcon.db15ad22.png": "/clivelton/profile/static/media/jsIcon.db15ad22.png",
+    "static/media/pic.f0ca63b2.png": "/clivelton/profile/static/media/pic.f0ca63b2.png",
+    "static/media/reactIcon.928f956d.svg": "/clivelton/profile/static/media/reactIcon.928f956d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eedbaf40.js",
+    "static/js/2.fee7ef0a.chunk.js",
+    "static/css/main.ea1c1996.chunk.css",
+    "static/js/main.24359cf9.chunk.js"
+  ]
+}
